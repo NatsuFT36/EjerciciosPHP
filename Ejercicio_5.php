@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>Ejercicio S</h1>
+<h1>Ejercicio 5</h1>
 <?php
 header ("Content-type: text/html; charset=\"utf-8\"");
 for ($i=1;$i<=10;$i++)
