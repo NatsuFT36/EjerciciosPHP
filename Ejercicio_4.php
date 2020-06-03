@@ -9,7 +9,7 @@
     if ($usuario == "mrmai0" || $usuario == "mrmai02") //Utilizando el operador || (or) y tambien se puede usar && (and)
     {
         //Si la instruccion es verdadera
-        echo "<h1>Usuario es vaildo</h1>";
+        echo "<h1>Usuario es valido</h1>";
     }
     else
     {
