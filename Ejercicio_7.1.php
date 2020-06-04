@@ -15,10 +15,6 @@
         {
             echo "<h2>No es un numero primo".$_GET['numero']."</h2>";
         }
-        else
-        {
-            echo "<h2>Ingrese un numero mayor que cero".$_GET['numero']."</h2>";
-        }
     }
 ?>
 <form>
